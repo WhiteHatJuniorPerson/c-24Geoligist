@@ -1,1 +1,2 @@
-# c-24Geoligist
+# Geologist
+Geologist Project
